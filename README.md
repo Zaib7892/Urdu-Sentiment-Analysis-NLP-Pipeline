@@ -44,7 +44,7 @@ This project focuses on the development of an **Automatic Sentiment Analysis Too
 - **pandas**, **matplotlib** for data analysis and visualization 📊
 
 ## Dataset 📂
-A publicly available dataset of Urdu social media posts was used for this project, such as the [Urdu Twitter Sentiment Dataset](https://www.kaggle.com/). The dataset contains raw social media posts and their corresponding sentiment labels (positive, negative, neutral).
+A publicly available dataset of Urdu social media posts was used for this project, such as the [Urdu Twitter Sentiment Dataset](https://www.kaggle.com/datasets/shumailakhan/urdu-sarcastic-tweets-dataset). The dataset contains raw social media posts and their corresponding sentiment labels (positive, negative, neutral).
 
 ## Getting Started 🚀
 
